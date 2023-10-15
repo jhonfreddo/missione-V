@@ -18,4 +18,4 @@ Una valigetta contenente dei codici di lancio nucleari è stata trafugata. I Rus
 
 Io e Wright ci scambiamo uno sguardo d'intesa. Il vice questore mi consegna il faldone con i documenti del caso e ci augura buona fortuna.<i/>
 
-[Avanti](https://github.com/jhonfreddo/missione-V/tree/main/a%20-%20intermediario#intermediario)
+[Avanti ➡️](https://github.com/jhonfreddo/missione-V/tree/main/a%20-%20intermediario#intermediario)
