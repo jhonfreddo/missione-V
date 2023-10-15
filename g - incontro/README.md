@@ -1,4 +1,5 @@
 # Incontro
+🌐
 
 Se pensi di aver risolto tutti gli enigmi vai da Gianluca a chiedere il link per la conversione
 
