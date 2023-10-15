@@ -7,4 +7,4 @@
 
 Se pensi di aver risolto tutti gli enigmi vai da Gianluca a chiedere il link per la conversione
 
-[⬅️ Indietro](https://github.com/jhonfreddo/missione-V/tree/main/d%20-%20bisca)
+[⬅️ Indietro](https://github.com/jhonfreddo/missione-V/tree/main/e%20-%20bisca)
