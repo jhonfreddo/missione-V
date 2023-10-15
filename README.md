@@ -16,6 +16,6 @@ GLHF!
 
 Una valigetta contenente dei codici di lancio nucleari è stata trafugata. I Russi vogliono impossessarsene e hanno già organizzato lo scambio. Il ministero degli interni ha richiesto che due agenti vadano sotto copertura a recuperare la valigetta: è in mano a un Australiano. Non sappiamo il nome o le fattezze del contatto, ma sappiamo che consegnerà la valigetta soltanto a fronte di una parola d’ordine. Fisher ci comunica inoltre che l’intelligence ha già scoperto la prima lettera della parola d’ordine, è la V, ma non è riuscita ad ottenere altro. 
 
-Io e Wright ci scambiamo uno sguardo d'intesa. Il vice questore mi consegna il faldone con i documenti del caso e ci augura buona fortuna.<i/>
+Io e Wright ci scambiamo uno sguardo d'intesa. Il vice questore mi consegna il faldone con i documenti del caso e ci augura buona fortuna.</i>
 
 [Avanti ➡️](https://github.com/jhonfreddo/missione-V/tree/main/a%20-%20intermediario#intermediario)
